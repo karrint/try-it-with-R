@@ -1,2 +1,2 @@
 #For R
-print(success)
+print("success")
